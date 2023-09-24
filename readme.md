@@ -35,7 +35,7 @@ Simply change these flags to `True` to run the computation from scratch.
 
 ## Large data sets
 
-The WOA23 and GLODAPv2 data are not included here but conveniently located `readme` files are included in their place, with the corresponding URLs and instructions as to which files are needed.
+The *Breitkreutz et al.* (2018), WOA23, and GLODAPv2 data are not included here but conveniently located `readme` files are included in their place, with the corresponding URLs and instructions as to which files are needed.
 
 ## CSV output
 
