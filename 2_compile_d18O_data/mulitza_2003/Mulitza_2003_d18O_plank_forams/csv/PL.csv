@@ -1,0 +1,50 @@
+Station,LATITUDE (Dez),LONGITUDE (Dez),Species,Size,d13C,d18O,WD,T (∞C),d18O(SMOW),Cruise,Device,dc-dw,Source (water),Reference
+Tab1/12,-47.98,-53.83,N. pachy (l),150-300,0.01,0.09,0,11.8,0.13,TABIA 1,Tow,0.23,estimated,this work
+Tab1/20,-59.24,-56.27,N. pachy (l),200-300,0.51,2.58,0,1.2,-0.17,TABIA 1,Tow,3.02,estimated,this work
+GeoB 2709-1,-41.54,-57.06,N. pachy (l),150-250,0.03,1.1,0-200,5.2,-0.29,M29/1,Tow,1.66,measured,this work
+Tab2/12,-46,-53.8,N. pachy (l),150-300,-1.03,0.3,0-5/30-50,13.1,0.13,TABIA 2,Tow,0.44,estimated,this work
+Tab2/13,-48,-54.27,N. pachy (l),200-250,-0.41,0.9,30-50,8.7,0.13,TABIA 2,Tow,1.04,estimated,this work
+Tab2/16,-54,-55.39,N. pachy (l),150-250,-0.23,1.45,30-50,6.9,-0.09,TABIA 2,Tow,1.81,estimated,this work
+Tab2/17,-55,-55.62,N. pachy (l),150-250,0.07,1.46,30-50,7.3,-0.17,TABIA 2,Tow,1.9,estimated,this work
+Tab2/18,-55,-55.43,N. pachy (l),150-300,-0.09,1.69,15-30,5.4,-0.17,TABIA 2,Tow,2.13,estimated,this work
+Bauch276,81.49,31.43,N. pachy (l),>250,-,3.59,0-50,-1.625,0.22,Ark IV/3,Tow,3.64,measured,Bauch et al. 1999
+Bauch276,81.49,31.43,N. pachy (l),>250,-,3.4,50-100,-0.845,0.25,Ark IV/3,Tow,3.42,measured,Bauch et al. 1999
+Bauch276,81.49,31.43,N. pachy (l),>250,-,3.6,100-200,0.734,0.25,Ark IV/3,Tow,3.62,measured,Bauch et al. 1999
+Bauch276,81.49,31.43,N. pachy (l),>250,-,3.44,200-300,1.411,0.25,Ark IV/3,Tow,3.46,measured,Bauch et al. 1999
+Bauch276,81.49,31.43,N. pachy (l),>250,-,3.39,300-500,0.607,0.3,Ark IV/3,Tow,3.36,measured,Bauch et al. 1999
+Bauch285,81.65,31.51,N. pachy (l),>250,-,3.87,0-50,-1.542,0.23,Ark IV/3,Tow,3.92,measured,Bauch et al. 1999
+Bauch285,81.65,31.51,N. pachy (l),>250,-,3.76,50-100,0.175,0.23,Ark IV/3,Tow,3.8,measured,Bauch et al. 1999
+Bauch285,81.65,31.51,N. pachy (l),>250,-,3.53,100-200,1.339,0.25,Ark IV/3,Tow,3.55,measured,Bauch et al. 1999
+Bauch287,81.68,31.2,N. pachy (l),>250,-,3.83,0-50,-1.643,0.26,Ark IV/3,Tow,3.85,measured,Bauch et al. 1999
+Bauch287,81.68,31.2,N. pachy (l),>250,-,3.88,50-100,0.012,0.25,Ark IV/3,Tow,3.9,measured,Bauch et al. 1999
+Bauch287,81.68,31.2,N. pachy (l),>250,-,3.55,100-200,1.239,0.28,Ark IV/3,Tow,3.54,measured,Bauch et al. 1999
+Bauch287,81.68,31.2,N. pachy (l),>250,-,3.2,200-300,1.42,0.31,Ark IV/3,Tow,3.16,measured,Bauch et al. 1999
+Bauch287,81.68,31.2,N. pachy (l),>250,-,3,300-500,1.395,0.3,Ark IV/3,Tow,2.97,measured,Bauch et al. 1999
+Bauch296,81.81,31.58,N. pachy (l),>250,-,3.91,0-50,-1.658,0.22,Ark IV/3,Tow,3.96,measured,Bauch et al. 1999
+Bauch296,81.81,31.58,N. pachy (l),>250,-,3.67,50-100,-0.172,0.25,Ark IV/3,Tow,3.69,measured,Bauch et al. 1999
+Bauch296,81.81,31.58,N. pachy (l),>250,-,3.49,100-200,1.196,0.28,Ark IV/3,Tow,3.48,measured,Bauch et al. 1999
+Bauch296,81.81,31.58,N. pachy (l),>250,-,3.44,300-500,1.442,0.29,Ark IV/3,Tow,3.42,measured,Bauch et al. 1999
+Bauch340,83.08,31.9,N. pachy (l),>250,-,3.46,0-50,-1.831,0.11,Ark IV/3,Tow,3.62,measured,Bauch et al. 1999
+Bauch340,83.08,31.9,N. pachy (l),>250,-,3.76,50-100,-1.555,0.11,Ark IV/3,Tow,3.93,measured,Bauch et al. 1999
+Bauch340,83.08,31.9,N. pachy (l),>250,-,3.84,100-200,0.963,0.21,Ark IV/3,Tow,3.9,measured,Bauch et al. 1999
+Bauch340,83.08,31.9,N. pachy (l),>250,-,3.64,200-300,1.629,0.25,Ark IV/3,Tow,3.66,measured,Bauch et al. 1999
+Bauch340,83.08,31.9,N. pachy (l),>250,-,3.64,300-500,1.503,0.28,Ark IV/3,Tow,3.63,measured,Bauch et al. 1999
+Bauch276,81.49,31.43,N. pachy (l),160-250,-,3.2,50-100,-0.845,0.25,Ark IV/3,Tow,3.22,measured,Bauch et al. 1999
+Bauch276,81.49,31.43,N. pachy (l),160-250,-,3.38,100-200,0.734,0.25,Ark IV/3,Tow,3.4,measured,Bauch et al. 1999
+Bauch276,81.49,31.43,N. pachy (l),160-250,-,3.32,200-300,1.411,0.25,Ark IV/3,Tow,3.34,measured,Bauch et al. 1999
+Bauch276,81.49,31.43,N. pachy (l),160-250,-,3.12,300-500,0.607,0.3,Ark IV/3,Tow,3.09,measured,Bauch et al. 1999
+Bauch285,81.65,31.51,N. pachy (l),160-250,-,3.73,0-50,-1.542,0.23,Ark IV/3,Tow,3.78,measured,Bauch et al. 1999
+Bauch285,81.65,31.51,N. pachy (l),160-250,-,3.63,50-100,0.175,0.23,Ark IV/3,Tow,3.67,measured,Bauch et al. 1999
+Bauch285,81.65,31.51,N. pachy (l),160-250,-,3.55,100-200,1.339,0.25,Ark IV/3,Tow,3.57,measured,Bauch et al. 1999
+Bauch285,81.65,31.51,N. pachy (l),160-250,-,3.09,200-300,1.536,0.26,Ark IV/3,Tow,3.1,measured,Bauch et al. 1999
+Bauch285,81.65,31.51,N. pachy (l),160-250,-,2.73,300-500,1.368,0.31,Ark IV/3,Tow,2.69,measured,Bauch et al. 1999
+Bauch287,81.68,31.2,N. pachy (l),160-250,-,3.73,0-50,-1.643,0.26,Ark IV/3,Tow,3.75,measured,Bauch et al. 1999
+Bauch287,81.68,31.2,N. pachy (l),160-250,-,3.83,50-100,0.012,0.25,Ark IV/3,Tow,3.85,measured,Bauch et al. 1999
+Bauch287,81.68,31.2,N. pachy (l),160-250,-,3.39,100-200,1.239,0.28,Ark IV/3,Tow,3.38,measured,Bauch et al. 1999
+Bauch296,81.81,31.58,N. pachy (l),160-250,-,3.26,0-50,-1.658,0.22,Ark IV/3,Tow,3.31,measured,Bauch et al. 1999
+Bauch296,81.81,31.58,N. pachy (l),160-250,-,3.64,50-100,-0.172,0.25,Ark IV/3,Tow,3.66,measured,Bauch et al. 1999
+Bauch296,81.81,31.58,N. pachy (l),160-250,-,3.55,100-200,1.196,0.28,Ark IV/3,Tow,3.54,measured,Bauch et al. 1999
+Bauch296,81.81,31.58,N. pachy (l),160-250,-,3.27,300-500,1.442,0.29,Ark IV/3,Tow,3.25,measured,Bauch et al. 1999
+Bauch340,83.08,31.9,N. pachy (l),160-250,-,3.49,0-50,-1.831,0.11,Ark IV/3,Tow,3.65,measured,Bauch et al. 1999
+Bauch340,83.08,31.9,N. pachy (l),160-250,-,3.69,50-100,-1.555,0.11,Ark IV/3,Tow,3.86,measured,Bauch et al. 1999
+Bauch340,83.08,31.9,N. pachy (l),160-250,-,2.77,100-200,0.963,0.21,Ark IV/3,Tow,2.83,measured,Bauch et al. 1999

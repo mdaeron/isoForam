@@ -1,0 +1,22 @@
+Station,LATITUDE (Dez),LONGITUDE (Dez),Species,Size,d13C,d18O,WD,T (∞C),d18O(SMOW),Cruise,Device,dc-dw,Source (water),Reference
+Tab1/13,-49.6,-54.2,G. bull.,200-400,-1.31,1.18,0,6.7,0.13,Tabia 1,Tow,1.32,estimated,this work
+Tab1/17,-56.24,-55.52,G. bull.,250-450,-1.23,1.79,30-50,3.9,-0.17,Tabia 1,Tow,2.23,estimated,this work
+Tab1/18,-56.34,-55.42,G. bull.,250-450,-1.37,1.71,0,1.7,-0.17,Tabia 1,Tow,2.15,estimated,this work
+Tab1/12,-47.99,-53.84,G. bull.,200-500,-1.36,0.57,0,11.8,0.13,Tabia 1,Tow,0.71,estimated,this work
+GeoB 2717-3,-47.16,-56.49,G. bull.,150-350,-0.74,0.73,0-50,7.7,-0.16,M29/1,Tow,1.16,measured,this work
+GeoB 2730-3,-44.48,-53.25,G. bull.,200-300,-1.06,0.72,0-50,10,-0.03,M29/1,Tow,1.02,measured,this work
+Tab2/13,-48,-54.27,G. bull.,150-350,-1.2,1.02,30-50,8.7,0.13,Tabia 2,Tow,1.16,estimated,this work
+Tab2/17,-55,-55.62,G. bull.,150-400,-1.56,1.48,30-50,7.3,-0.17,Tabia 2,Tow,1.92,estimated,this work
+Tab2/11,-43.82,-53.28,G. bull.,200-400,-1.92,-0.17,15-30,16.8,0.41,Tabia 2,Tow,-0.31,estimated,this work
+Tab2/16,-54,-55.39,G. bull.,150-400,-1.55,1.59,0-5/30-50,6.9,-0.09,Tabia 2,Tow,1.95,estimated,this work
+Tab2/12,-46,-53.8,G. bull.,150-450,-2.01,0.4,0-5/30-50,13.1,0.13,Tabia 2,Tow,0.54,estimated,this work
+Tab2/10,-42,-52.83,G. bull.,250-400,-1.8,0,30-50,16.5,0.41,Tabia 2,Tow,-0.14,estimated,this work
+308-1-5,16.14,52.51,G. bull.,250-355,-2.07,-1.02,0-23,19,0.29,RV Tyro C,Tow,-1.04,estimated,Peeters et al. 2002
+310-5-5,16.07,52.7,G. bull.,150-250,-2.56,-1.29,0-8,20.35,0.29,RV Tyro C,Tow,-1.31,estimated,Peeters et al. 2002
+310-5-5,16.07,52.7,G. bull.,250-355,-2.19,-0.98,0-8,20.35,0.29,RV Tyro C,Tow,-1,estimated,Peeters et al. 2002
+313-4-5,15.88,53.01,G. bull.,150-250,-2.9,-2.39,0-8,25.5,0.37,RV Tyro C,Tow,-2.49,estimated,Peeters et al. 2002
+313-4-5,15.88,53.01,G. bull.,250-355,-2.57,-2.22,0-8,25.5,0.37,RV Tyro C,Tow,-2.32,estimated,Peeters et al. 2002
+Station P,50,-145,G. bull.,<300,-,0.26,0-10,8.42,-0.76,RV Yaquina,Tow,1.29,estimated,Kahn and Williams 1981
+Station P,50,-145,G. bull.,<300,-2.28,-0.03,0-10,8.42,-0.76,RV Yaquina,Tow,1,estimated,Kahn and Williams 1981
+Station P,50,-145,G. bull.,300-425,-0.87,0.62,0-10,8.42,-0.76,RV Yaquina,Tow,1.65,estimated,Kahn and Williams 1981
+Station P,50,-145,G. bull.,300-425,-1.13,0.46,0-10,8.42,-0.76,RV Yaquina,Tow,1.49,estimated,Kahn and Williams 1981

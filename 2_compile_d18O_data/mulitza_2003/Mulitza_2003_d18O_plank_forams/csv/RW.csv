@@ -1,0 +1,92 @@
+Station,LATITUDE (Dez),LONGITUDE (Dez),Species,Size,d13C,d18O,WD,T (∞C),d18O(SMOW),Cruise,Device,dc-dw,Source (water),Reference
+FP 29,1.85 ,-42.31 ,G. ruber (w),250-350,0.53 ,-2.18 ,3.5,27.4 ,0.94 ,M38/2,Pump,-2.85 ,estimated,this work
+FP 34,4.34 ,-41.99 ,G. ruber (w),250-350,0.80 ,-2.17 ,3.5,27.4 ,0.94 ,M38/2,Pump,-2.84 ,estimated,this work
+FP 36,3.68 ,-44.01 ,G. ruber (w),300-400,1.07 ,-2.19 ,3.5,27.4 ,0.94 ,M38/2,Pump,-2.86 ,estimated,this work
+FP 37,4.39 ,-44.85 ,G. ruber (w),250-350,0.88 ,-2.18 ,3.5,27.3 ,0.88 ,M38/2,Pump,-2.79 ,measured,this work
+FP 38,3.67 ,-46.72 ,G. ruber (w),250-350,1.05 ,-2.10 ,3.5,27.2 ,0.84 ,M38/2,Pump,-2.67 ,measured,this work
+FP 39,3.67 ,-45.24 ,G. ruber (w),250-350,0.93 ,-2.22 ,3.5,27.2 ,0.85 ,M38/2,Pump,-2.80 ,measured,this work
+FP 40,4.06 ,-44.43 ,G. ruber (w),250-350,1.07 ,-2.21 ,3.5,27.1 ,0.86 ,M38/2,Pump,-2.80 ,measured,this work
+FP 41,6.48 ,-44.01 ,G. ruber (w),250-350,0.79 ,-2.28 ,3.5,26.9 ,0.85 ,M38/2,Pump,-2.86 ,measured,this work
+FP 42,5.19 ,-44.38 ,G. ruber (w),250-350,0.95 ,-2.10 ,3.5,26.9 ,0.82 ,M38/2,Pump,-2.65 ,measured,this work
+FP 43,5.72 ,-44.36 ,G. ruber (w),250-350,0.87 ,-2.47 ,3.5,27.0 ,0.92 ,M38/2,Pump,-3.12 ,measured,this work
+FP 44,5.85 ,-44.98 ,G. ruber (w),250-350,1.09 ,-2.19 ,3.5,26.9 ,0.88 ,M38/2,Pump,-2.79 ,measured,this work
+FP 45,5.14 ,-46.58 ,G. ruber (w),250-350,0.94 ,-2.24 ,3.5,27.1 ,0.96 ,M38/2,Pump,-2.93 ,estimated,this work
+FP 46,4.88 ,-47.67 ,G. ruber (w),250-350,0.96 ,-2.30 ,3.5,27.1 ,0.90 ,M38/2,Pump,-2.93 ,measured,this work
+FP 48,8.76 ,-52.04 ,G. ruber (w),250-400,0.97 ,-2.14 ,3.5,26.5 ,0.97 ,M38/2,Pump,-2.84 ,measured,this work
+FP 49,9.68 ,-54.26 ,G. ruber (w),250-350,0.62 ,-2.21 ,3.5,26.9 ,0.94 ,M38/2,Pump,-2.88 ,estimated,this work
+FP 50,11.18 ,-52.49 ,G. ruber (w),250-400,0.63 ,-2.08 ,3.5,25.8 ,1.07 ,M38/2,Pump,-2.88 ,measured,this work
+FP 54,18.20 ,-44.00 ,G. ruber (w),250-400,0.92 ,-1.73 ,3.5,24.2 ,1.00 ,M38/2,Pump,-2.46 ,estimated,this work
+Tab1/1,-29.70 ,-47.27 ,G. ruber (w),200-400,0.41 ,-1.56 ,0,24.0 ,1.18 ,Tabia 1,Tow,-2.47 ,estimated,this work
+Tab2/3,-35.00 ,-51.20 ,G. ruber (w),200-350,0.41 ,-1.24 ,0-50,22.5 ,0.99 ,Tabia 2,Tow,-1.96 ,estimated,this work
+Tab2/2,-34.00 ,-51.00 ,G. ruber (w),150-350,0.41 ,-1.40 ,5-30,22.1 ,0.99 ,Tabia 2,Tow,-2.12 ,estimated,this work
+Tab2/7,-37.53 ,-51.77 ,G. ruber (w),200-500,1.01 ,-1.14 ,0-30,20.7 ,0.80 ,Tabia 2,Tow,-1.67 ,estimated,this work
+10-5,-28.01 ,78.30 ,G. ruber (w),150-250,-0.39 ,-1.24 ,0-80,20.0 ,0.62 ,Osiris II-MD 10,Tow,-1.59 ,estimated,Duplessy et al. 1981
+10-7,-23.92 ,77.64 ,G. ruber (w),150-250,0.72 ,-1.78 ,0-80,22.6 ,0.48 ,Osiris II-MD 10,Tow,-1.99 ,estimated,Duplessy et al. 1981
+10-7,-23.92 ,77.64 ,G. ruber (w),150-250,-1.70 ,-1.78 ,0-80,22.6 ,0.48 ,Osiris II-MD 10,Tow,-1.99 ,estimated,Duplessy et al. 1981
+10-8,-21.07 ,77.31 ,G. ruber (w),150-250,-0.08 ,-1.76 ,0-80,23.0 ,0.48 ,Osiris II-MD 10,Tow,-1.97 ,estimated,Duplessy et al. 1981
+10-9,-19.13 ,77.11 ,G. ruber (w),150-250,-0.22 ,-2.16 ,0-75,24.2 ,0.60 ,Osiris II-MD 10,Tow,-2.49 ,estimated,Duplessy et al. 1981
+10-9,-19.13 ,77.11 ,G. ruber (w),>250,0.58 ,-2.01 ,0-75,24.2 ,0.60 ,Osiris II-MD 10,Tow,-2.34 ,estimated,Duplessy et al. 1981
+10-10,-16.54 ,76.74 ,G. ruber (w),150-250,0.48 ,-2.34 ,0-80,25.6 ,0.33 ,Osiris II-MD 10,Tow,-2.40 ,estimated,Duplessy et al. 1981
+10-10,-16.54 ,76.74 ,G. ruber (w),>250,0.58 ,-2.47 ,0-80,25.6 ,0.33 ,Osiris II-MD 10,Tow,-2.53 ,estimated,Duplessy et al. 1981
+10-11,-12.18 ,76.25 ,G. ruber (w),150-250,0.64 ,-2.65 ,0-50,26.6 ,0.33 ,Osiris II-MD 10,Tow,-2.71 ,estimated,Duplessy et al. 1981
+10-11,-12.18 ,76.25 ,G. ruber (w),>250,1.09 ,-2.64 ,0-50,26.6 ,0.33 ,Osiris II-MD 10,Tow,-2.70 ,estimated,Duplessy et al. 1981
+10-11,-12.18 ,76.25 ,G. ruber (w),>250,1.06 ,-2.55 ,0-50,26.6 ,0.33 ,Osiris II-MD 10,Tow,-2.61 ,estimated,Duplessy et al. 1981
+10-12,-10.22 ,74.93 ,G. ruber (w),150-250,0.63 ,-2.83 ,0-40,27.0 ,0.29 ,Osiris II-MD 10,Tow,-2.85 ,estimated,Duplessy et al. 1981
+10-13,-7.35 ,73.25 ,G. ruber (w),150-250,-0.16 ,-2.52 ,0-30,27.5 ,0.45 ,Osiris II-MD 10,Tow,-2.70 ,estimated,Duplessy et al. 1981
+10-15,0.10 ,73.81 ,G. ruber (w),150-250,0.48 ,-3.04 ,0-50,28.7 ,0.38 ,Osiris II-MD 10,Tow,-3.15 ,measured,Duplessy et al. 1981
+10-16,2.01 ,76.43 ,G. ruber (w),150-250,1.13 ,-3.13 ,0-50,28.6 ,0.32 ,Osiris II-MD 10,Tow,-3.18 ,measured,Duplessy et al. 1981
+10-17,3.88 ,79.48 ,G. ruber (w),150-250,0.57 ,-3.07 ,0-50,28.8 ,0.39 ,Osiris II-MD 10,Tow,-3.19 ,measured,Duplessy et al. 1981
+10-17,3.88 ,79.48 ,G. ruber (w),150-250,0.65 ,-2.72 ,0-50,28.8 ,0.39 ,Osiris II-MD 10,Tow,-2.84 ,measured,Duplessy et al. 1981
+10-17,3.88 ,79.48 ,G. ruber (w),150-250,0.30 ,-3.45 ,0-50,28.8 ,0.39 ,Osiris II-MD 10,Tow,-3.57 ,measured,Duplessy et al. 1981
+10-17,3.88 ,79.48 ,G. ruber (w),>250,0.84 ,-3.15 ,0-50,28.8 ,0.39 ,Osiris II-MD 10,Tow,-3.27 ,measured,Duplessy et al. 1981
+10-19,6.39 ,78.66 ,G. ruber (w),150-250,0.18 ,-2.76 ,0-50,27.3 ,0.42 ,Osiris II-MD 10,Tow,-2.91 ,measured,Duplessy et al. 1981
+10-19,6.39 ,78.66 ,G. ruber (w),>250,0.42 ,-2.90 ,0-50,27.3 ,0.42 ,Osiris II-MD 10,Tow,-3.05 ,measured,Duplessy et al. 1981
+10-26,12.09 ,73.90 ,G. ruber (w),150-250,0.47 ,-2.88 ,0-50,28.3 ,0.48 ,Osiris II-MD 10,Tow,-3.09 ,measured,Duplessy et al. 1981
+10-26,12.09 ,73.90 ,G. ruber (w),>250,1.16 ,-2.99 ,0-50,28.3 ,0.48 ,Osiris II-MD 10,Tow,-3.20 ,measured,Duplessy et al. 1981
+10-27,13.13 ,73.31 ,G. ruber (w),150-250,0.70 ,-3.05 ,0-200,28.4 ,0.51 ,Osiris II-MD 10,Tow,-3.29 ,measured,Duplessy et al. 1981
+10-27,13.13 ,73.31 ,G. ruber (w),>250,1.39 ,-2.78 ,0-200,28.4 ,0.51 ,Osiris II-MD 10,Tow,-3.02 ,measured,Duplessy et al. 1981
+10-27,13.13 ,73.31 ,G. ruber (w),>250,1.46 ,-2.84 ,0-200,28.4 ,0.51 ,Osiris II-MD 10,Tow,-3.08 ,measured,Duplessy et al. 1981
+10-28,15.00 ,72.33 ,G. ruber (w),150-250,0.45 ,-2.91 ,0-50,28.8 ,0.54 ,Osiris II-MD 10,Tow,-3.18 ,measured,Duplessy et al. 1981
+10-28,15.00 ,72.33 ,G. ruber (w),>250,1.22 ,-2.72 ,0-50,28.8 ,0.54 ,Osiris II-MD 10,Tow,-2.99 ,measured,Duplessy et al. 1981
+10-29,15.53 ,72.57 ,G. ruber (w),150-250,0.01 ,-3.37 ,0-35,29.0 ,0.66 ,Osiris II-MD 10,Tow,-3.76 ,measured,Duplessy et al. 1981
+10-29,15.53 ,72.57 ,G. ruber (w),>250,1.48 ,-2.78 ,0-35,29.0 ,0.66 ,Osiris II-MD 10,Tow,-3.17 ,measured,Duplessy et al. 1981
+10-29,15.53 ,72.57 ,G. ruber (w),150-250,0.67 ,-2.94 ,0-35,29.0 ,0.66 ,Osiris II-MD 10,Tow,-3.33 ,measured,Duplessy et al. 1981
+10-29,15.53 ,72.57 ,G. ruber (w),>250,1.52 ,-3.12 ,0-35,29.0 ,0.66 ,Osiris II-MD 10,Tow,-3.51 ,measured,Duplessy et al. 1981
+10-31,16.45 ,67.28 ,G. ruber (w),150-250,0.55 ,-3.15 ,0-55,29.0 ,0.77 ,Osiris II-MD 10,Tow,-3.65 ,measured,Duplessy et al. 1981
+10-31,16.45 ,67.28 ,G. ruber (w),>250,1.11 ,-2.82 ,0-55,29.0 ,0.77 ,Osiris II-MD 10,Tow,-3.32 ,measured,Duplessy et al. 1981
+13-4,-16.86 ,74.67 ,G. ruber (w),150-250,0.63 ,-3.20 ,0-75,27.7 ,0.26 ,Osiris III-MD 13,Tow,-3.19 ,estimated,Duplessy et al. 1981
+13-7,-15.15 ,85.38 ,G. ruber (w),>250,0.65 ,-3.05 ,0-60,27.6 ,0.10 ,Osiris III-MD 13,Tow,-2.88 ,estimated,Duplessy et al. 1981
+13-9,-14.98 ,86.56 ,G. ruber (w),150-250,0.57 ,-3.12 ,0-50,27.6 ,0.10 ,Osiris III-MD 13,Tow,-2.95 ,estimated,Duplessy et al. 1981
+13-57,8.36 ,75.97 ,G. ruber (w),150-250,0.52 ,-3.08 ,0-40,28.9 ,0.35 ,Osiris III-MD 13,Tow,-3.16 ,estimated,Duplessy et al. 1981
+13-57,8.36 ,75.97 ,G. ruber (w),150-250,0.82 ,-3.02 ,0-300,28.9 ,0.35 ,Osiris III-MD 13,Tow,-3.10 ,estimated,Duplessy et al. 1981
+13-57,8.36 ,75.97 ,G. ruber (w),>250,1.21 ,-2.96 ,0-300,28.9 ,0.35 ,Osiris III-MD 13,Tow,-3.04 ,estimated,Duplessy et al. 1981
+13-59,10.47 ,75.23 ,G. ruber (w),>250,1.01 ,-3.30 ,0-300,29.4 ,0.43 ,Osiris III-MD 13,Tow,-3.46 ,estimated,Duplessy et al. 1981
+13-60,11.50 ,74.54 ,G. ruber (w),>250,1.19 ,-2.94 ,0-300,30.1 ,0.43 ,Osiris III-MD 13,Tow,-3.10 ,estimated,Duplessy et al. 1981
+13-61,12.31 ,73.99 ,G. ruber (w),150-250,0.39 ,-3.42 ,0-300,30.3 ,0.45 ,Osiris III-MD 13,Tow,-3.60 ,estimated,Duplessy et al. 1981
+13-64,13.97 ,71.89 ,G. ruber (w),150-250,0.10 ,-3.14 ,0-300,30.6 ,0.57 ,Osiris III-MD 13,Tow,-3.44 ,estimated,Duplessy et al. 1981
+13-65,16.54 ,67.89 ,G. ruber (w),150-250,0.08 ,-3.53 ,0-40,31.1 ,0.70 ,Osiris III-MD 13,Tow,-3.96 ,estimated,Duplessy et al. 1981
+13-67,19.22 ,60.68 ,G. ruber (w),150-250,-0.43 ,-3.36 ,0-300,29.8 ,0.77 ,Osiris III-MD 13,Tow,-3.86 ,estimated,Duplessy et al. 1981
+13-67,19.22 ,60.68 ,G. ruber (w),>250,0.57 ,-3.29 ,0-40,29.8 ,0.77 ,Osiris III-MD 13,Tow,-3.79 ,estimated,Duplessy et al. 1981
+13-68,12.70 ,59.57 ,G. ruber (w),150-250,0.47 ,-2.77 ,0-300,26.5 ,0.62 ,Osiris III-MD 13,Tow,-3.12 ,estimated,Duplessy et al. 1981
+13-68,12.70 ,59.57 ,G. ruber (w),>250,0.72 ,-2.79 ,0-300,26.5 ,0.62 ,Osiris III-MD 13,Tow,-3.14 ,estimated,Duplessy et al. 1981
+13-71,16.88 ,55.12 ,G. ruber (w),150-250,0.79 ,-2.71 ,0-200,28.8 ,0.62 ,Osiris III-MD 13,Tow,-3.06 ,estimated,Duplessy et al. 1981
+13-72,15.07 ,52.22 ,G. ruber (w),150-250,0.35 ,-3.20 ,0-30,28.8 ,0.62 ,Osiris III-MD 13,Tow,-3.55 ,estimated,Duplessy et al. 1981
+313-4-5,15.88 ,53.01 ,G. ruber (w),150-250,0.24 ,-2.18 ,0-8,25.5 ,0.37 ,RV Tyro C,Tow,-2.28 ,estimated,Peeters et al. 2002
+313-4-5,15.88 ,53.01 ,G. ruber (w),250-355,0.61 ,-1.91 ,0-8,25.5 ,0.37 ,RV Tyro C,Tow,-2.01 ,estimated,Peeters et al. 2002
+917-2-5,15.72 ,53.01 ,G. ruber (w),150-250,-0.25 ,-2.30 ,0-12,25.8 ,0.43 ,RV Tyro C,Tow,-2.46 ,estimated,Peeters et al. 2002
+920-2-5,16.07 ,52.70 ,G. ruber (w),150-250,0.02 ,-2.36 ,0-11,25.5 ,0.41 ,RV Tyro C,Tow,-2.50 ,estimated,Peeters et al. 2002
+15658-2,34.89 ,-6.70 ,G. ruber (w),200-315,-0.04 ,-0.04 ,0-40,16.1 ,0.83 ,M53,Tow,-0.60 ,estimated,Peeters et al. 2002
+15666-8,34.96 ,-7.12 ,G. ruber (w),200-315,0.03 ,-0.27 ,0-40,16.2 ,0.83 ,M53,Tow,-0.83 ,estimated,Peeters et al. 2002
+15666-8,34.96 ,-7.12 ,G. ruber (w),315-400,0.41 ,-0.15 ,0-40,16.2 ,0.83 ,M53,Tow,-0.71 ,estimated,Peeters et al. 2002
+V7,20.46 ,-18.30 ,G. ruber (w),200-400,0.81 ,-1.05 ,0-4,21.0 ,0.81 ,Val/10/1979,Pump,-1.59 ,estimated,Ganssen 1983
+V10,26.25 ,-15.72 ,G. ruber (w),315-400,1.07 ,-1.31 ,0-4,22.0 ,0.87 ,Val/10/1979,Pump,-1.91 ,estimated,Ganssen 1983
+V15,30.77 ,-11.05 ,G. ruber (w),200-315,0.26 ,-0.87 ,0-4,19.0 ,0.85 ,Val/10/1979,Pump,-1.45 ,estimated,Ganssen 1983
+V15,30.77 ,-11.05 ,G. ruber (w),315-400,0.98 ,-0.60 ,0-4,19.0 ,0.85 ,Val/10/1979,Pump,-1.18 ,estimated,Ganssen 1983
+V16,32.19 ,-10.04 ,G. ruber (w),200-400,0.93 ,-0.81 ,0-4,20.0 ,0.85 ,Val/10/1979,Pump,-1.39 ,estimated,Ganssen 1983
+M53/5,27.01 ,-15.08 ,G. ruber (w),200-315,0.14 ,-0.59 ,0-4,18.3 ,0.87 ,M53,Pump,-1.19 ,estimated,Ganssen 1983
+M53/6,27.01 ,-15.49 ,G. ruber (w),315-400,0.93 ,-0.16 ,0-4,19.1 ,0.88 ,M53,Pump,-0.77 ,estimated,Ganssen 1983
+M53/7,27.00 ,-19.00 ,G. ruber (w),200-315,0.11 ,-0.57 ,0-4,19.7 ,0.89 ,M53,Pump,-1.19 ,estimated,Ganssen 1983
+M53/8,29.21 ,-18.46 ,G. ruber (w),315-400,0.64 ,-0.26 ,0-4,18.4 ,0.89 ,M53,Pump,-0.88 ,estimated,Ganssen 1983
+M53/9,30.13 ,-16.44 ,G. ruber (w),315-400,0.51 ,-0.13 ,0-4,18.1 ,0.88 ,M53,Pump,-0.74 ,estimated,Ganssen 1983
+M53/10,30.56 ,-15.25 ,G. ruber (w),315-400,0.41 ,-0.19 ,0-4,18.0 ,0.87 ,M53,Pump,-0.79 ,estimated,Ganssen 1983
+M53/20,34.92 ,-7.50 ,G. ruber (w),200-400,0.70 ,0.34 ,0-4,16.6 ,0.85 ,M53,Pump,-0.24 ,estimated,Ganssen 1983

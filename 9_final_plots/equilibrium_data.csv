@@ -1,0 +1,7 @@
+Sample,Lab,T,SE_T,D47_ICDES,SE_D47_ICDES,Ref
+LGB-2,LSCE,7.9,0.2,0.6486,0.0030,Anderson et al. (2021)
+DVH-2,LSCE,33.7,0.2,0.5696,0.0027,Anderson et al. (2021)
+LGB-2,GU,7.9,0.2,0.6481,0.0038,Fiebig et al. (2021)
+DVH-2,GU,33.7,0.2,0.5670,0.0036,Fiebig et al. (2021)
+DHC2-8,GU,33.7,0.2,0.5687,0.0022,Fiebig et al. (2021)
+Ad,LSCE,-1.8,0.5,0.6893,0.0060,Huyghe et al. (2022)

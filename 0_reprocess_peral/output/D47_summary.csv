@@ -1,0 +1,10 @@
+N samples (anchors + unknowns),62 (4 + 58)
+N analyses (anchors + unknowns),361 (127 + 234)
+Repeatability of δ13C_VPDB,34.8 ppm
+Repeatability of δ18O_VSMOW,84.3 ppm
+Repeatability of Δ47 (anchors),16.4 ppm
+Repeatability of Δ47 (unknowns),12.3 ppm
+Repeatability of Δ47 (all),14.0 ppm
+Model degrees of freedom,288
+Student's 95% t-factor,1.97
+Standardization method,pooled
