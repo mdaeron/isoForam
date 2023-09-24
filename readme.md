@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8367191.svg)](https://doi.org/10.5281/zenodo.8367191)
+
 # isoForam
 
 Full code base and data for *Revisiting oxygen-18 and clumped isotopes in planktic and benthic foraminifera*, by Daëron & Gray (2023). Preprint available [here](http://daeron.fr/biblio/Daeron-Gray-2023.pdf).
